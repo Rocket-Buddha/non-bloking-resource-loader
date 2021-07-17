@@ -1,0 +1,8 @@
+{
+  "dirs":["res://test/unit/"],
+  "ignore_pause":false,
+  "include_subdirs":true,
+  "prefix":"",
+  "suffix":".gd",
+  "should_maximize":true
+}
