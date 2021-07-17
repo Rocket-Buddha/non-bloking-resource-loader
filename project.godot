@@ -11,12 +11,8 @@ config_version=4
 [application]
 
 config/name="Non Bloking Resource Loader "
-run/main_scene="res://scenes/non_bloking_resource_loader.tscn"
+run/main_scene="res://src/resorces/scenes/non_bloking_resource_loader.tscn"
 config/icon="res://icon.png"
-
-[autoload]
-
-NonBlokingResourceLoader="*res://scenes/non_bloking_resource_loader.tscn"
 
 [editor_plugins]
 
